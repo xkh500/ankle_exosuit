@@ -1,0 +1,31 @@
+# Keil build
+*.axf
+*.o
+*.d
+*.lst
+*.map
+*.crf
+*.dep
+*.uvguix.*
+
+# STM32Cube / CubeMX
+*.launch
+*.log
+*.bak
+*.settings/
+*.mxproject
+*.ioc.lock
+
+# build folders
+Debug/
+Release/
+build/
+*.elf
+*.bin
+*.hex
+*.uvoptx
+*.uvgui.*
+
+# System / IDE
+.DS_Store
+Thumbs.db
