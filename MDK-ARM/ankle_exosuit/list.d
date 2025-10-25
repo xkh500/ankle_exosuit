@@ -1,0 +1,12 @@
+ankle_exosuit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+ankle_exosuit\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+ankle_exosuit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ankle_exosuit\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ankle_exosuit\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ankle_exosuit\list.o: ../Core/Inc/FreeRTOSConfig.h
+ankle_exosuit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ankle_exosuit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ankle_exosuit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ankle_exosuit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+ankle_exosuit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ankle_exosuit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

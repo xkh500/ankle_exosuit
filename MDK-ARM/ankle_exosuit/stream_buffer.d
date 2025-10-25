@@ -1,0 +1,14 @@
+ankle_exosuit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+ankle_exosuit\stream_buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ankle_exosuit\stream_buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+ankle_exosuit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ankle_exosuit\stream_buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ankle_exosuit\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+ankle_exosuit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ankle_exosuit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ankle_exosuit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ankle_exosuit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+ankle_exosuit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ankle_exosuit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+ankle_exosuit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+ankle_exosuit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

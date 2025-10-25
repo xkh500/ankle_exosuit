@@ -1,0 +1,14 @@
+ankle_exosuit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+ankle_exosuit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ankle_exosuit\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ankle_exosuit\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ankle_exosuit\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+ankle_exosuit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ankle_exosuit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ankle_exosuit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ankle_exosuit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+ankle_exosuit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ankle_exosuit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+ankle_exosuit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+ankle_exosuit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+ankle_exosuit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,16 @@
+ankle_exosuit\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+ankle_exosuit\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+ankle_exosuit\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+ankle_exosuit\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ankle_exosuit\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ankle_exosuit\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ankle_exosuit\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+ankle_exosuit\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ankle_exosuit\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ankle_exosuit\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ankle_exosuit\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+ankle_exosuit\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ankle_exosuit\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+ankle_exosuit\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+ankle_exosuit\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+ankle_exosuit\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
