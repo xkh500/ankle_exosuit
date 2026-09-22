@@ -24,8 +24,11 @@ Open `MDK-ARM/ankle_exosuit.uvprojx` in Keil MDK v5 and build, or regenerate
 the MDK project from `ankle_exosuit.ioc` with STM32CubeMX 6.4.
 
 ## License
-MIT — see [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE). The MIT grant covers the original code in
+`BSP/` and `application/` only.
 
-`application/detect_task.c` and `application/detect_task.h` are derived from DJI's
-RoboMaster development board example code and remain under DJI's copyright
-(`(C) COPYRIGHT 2019 DJI`); they are not covered by this project's MIT license.
+Third-party code that is not covered by it:
+- `Core/` and `Drivers/` — STMicroelectronics HAL and CMSIS, under ST's own terms
+- `Middlewares/` — FreeRTOS and other components under their respective licenses
+- `application/detect_task.c` / `.h` — derived from DJI's RoboMaster development
+  board example code, under DJI's copyright (`(C) COPYRIGHT 2019 DJI`)

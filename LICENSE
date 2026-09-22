@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This license covers the original work in this repository only. Files under
-Core/ and Drivers/ are STMicroelectronics HAL/CMSIS code distributed under
-ST's own license terms, Middlewares/ contains FreeRTOS (MIT) and other
-third-party components under their respective licenses, and
-application/detect_task.c/.h are DJI RoboMaster example code under DJI's
-copyright.
